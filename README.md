@@ -40,7 +40,7 @@ Until then, the long version of my background lives on LinkedIn (linked below).
 ### 🎓 Continuing education
 
 - **AI & Machine Learning Program** — UT Austin (Great Learning) · *In progress*
-- **ISTQB Foundation Level Certification** · *Preparing for exam*
+- **ISTQB Foundation Level Certification** · *June 5, 2026*
 - **Playwright Test Automation** · *Self-directed study*
 
 ### 📫 How to reach me
